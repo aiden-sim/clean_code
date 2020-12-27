@@ -1,4 +1,4 @@
-package part14.step1;
+package part14.draft.boolNstringNinteger;
 
 import part14.common.ArgsException;
 
@@ -6,7 +6,7 @@ import java.text.ParseException;
 import java.util.*;
 
 /**
- * 돌아가지만 엉망인 코드
+ * 3) 마지막으로 integer 유형을 추가하니 코드는 완전히 엉망이 되었다.
  */
 public class Args {
     private String schema;
