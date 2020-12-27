@@ -61,7 +61,7 @@ public class Args {
         char elementId = element.charAt(0);
         String elementTail = element.substring(1);
         validateSchemaElementId(elementId);
-        if (isBooleanSchemaElement(element)) {
+        if (isBooleanSchemaElement(elementTail)) {
             parseBooleanSchemaElement(elementId);
         } else if (isStringSchemaElement(elementTail)) {
             parseStringSchemaElement(elementId);
