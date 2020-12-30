@@ -1,4 +1,4 @@
-package part14.draft.bool;
+package part14.step1.draft.bool;
 
 /**
  * 1) boolean 인수만 지원하던 초기버전

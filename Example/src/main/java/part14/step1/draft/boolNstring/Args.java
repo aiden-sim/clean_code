@@ -1,4 +1,4 @@
-package part14.draft.boolNstring;
+package part14.step1.draft.boolNstring;
 
 /**
  * 2) boolean과 String 인수 지원 초기버전
