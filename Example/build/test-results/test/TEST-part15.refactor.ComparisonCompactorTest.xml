@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="part15.refactor.ComparisonCompactorTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2020-12-31T16:49:00" hostname="kakaoui-MacBookPro.local" time="0.008">
+  <properties/>
+  <testcase name="testStartAndEndContextWithEllipses" classname="part15.refactor.ComparisonCompactorTest" time="0.001"/>
+  <testcase name="testEndSame" classname="part15.refactor.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testComparisonErrorWithActualNullContext" classname="part15.refactor.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testComparisonErrorEndSameCompleteContext" classname="part15.refactor.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testComparisonErrorWithActualNull" classname="part15.refactor.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testStartSame" classname="part15.refactor.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testComparisonErrorWithExpectedNull" classname="part15.refactor.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testSame" classname="part15.refactor.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testComparisonErrorOverlapingMatches2" classname="part15.refactor.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testComparisonErrorStartSameComplete" classname="part15.refactor.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testComparisonErrorOverlapingMatches2Context" classname="part15.refactor.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testBug609972" classname="part15.refactor.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testStartAndEndContext" classname="part15.refactor.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testComparisonErrorWithExpectedNullContext" classname="part15.refactor.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testMessage" classname="part15.refactor.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testComparisonErrorOverlapingMatchesContext" classname="part15.refactor.ComparisonCompactorTest" time="0.001"/>
+  <testcase name="testComparisonErrorEndSameComplete" classname="part15.refactor.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testComparisonErrorOverlapingMatches" classname="part15.refactor.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testNoContextStartAndEndSame" classname="part15.refactor.ComparisonCompactorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

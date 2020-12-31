@@ -1,7 +1,6 @@
-package part15.step1.refactor1;
+package part15.refactor;
 
 import junit.framework.TestCase;
-import part15.step1.ComparisonCompactor;
 
 public class ComparisonCompactorTest extends TestCase {
 
